@@ -41,6 +41,7 @@ public class Trash {
 				}
 			}
 		}
+		input.close();
 	}
 	public static boolean doPlayerTurn(Player active)
 	{
